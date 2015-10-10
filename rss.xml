@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MyNicholsWorth]]></title>
+        <description><![CDATA[MyNicholsWorth]]></description>
+        <link>https://thegrid.ai/mynicholsworth/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 10 Oct 2015 06:00:10 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mynicholsworth/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Muslim Madness of Merkel]]></title>
+            <description><![CDATA[<article><h1>The Muslim Madness of Merkel</h1><p>Daniel Greenfield, a Shillman Journalism Fellow at the Freedom Center, is a New York writer focusing on radical Islam. German Chancellor Angela Merkel insisted that refusing to take in Muslim migrants is a "danger for Europe." Merkel as usual had it backward.</p><img src="http://www.frontpagemag.com/sites/default/files/styles/article_full/public/uploads/2015/10/mrk.jpg?itok=CM809xp9"></article>]]></description>
+            <link>http://www.frontpagemag.com/fpm/260392/muslim-madness-merkel-daniel-greenfield</link>
+            <guid isPermaLink="false">707193db-3600-4b52-b8c2-f6313528b481</guid>
+            <pubDate>Sat, 10 Oct 2015 03:59:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My Title]]></title>
+            <description><![CDATA[<article><h1>My Title</h1><p>First article published on AI</p></article>]]></description>
+            <link>https://thegrid.ai/mynicholsworth/my-title/index.html</link>
+            <guid isPermaLink="false">f5af246c-0b3f-4753-9a7c-f0918b7c715e</guid>
+            <pubDate>Sat, 10 Oct 2015 03:44:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
