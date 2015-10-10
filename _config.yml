@@ -1,7 +1,5 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+favicon: null
+layout_spectrum: 0.7311828
 opengraph:
   image: null
   type: null
@@ -12,32 +10,34 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose:
   - name: awareness
     url: null
     item: 567b109d-db03-45f0-af4e-c18db8b2d7c1
 color:
-  saturation: 0.7544803
-  brandStrength: 0.797491
-  lightness: 0.8369176
+  saturation: 0.5788531
+  brandStrength: 1
+  lightness: 0.2670251
   brandColors:
-    - '#16150D'
-    - '#9199A4'
-    - '#E1E0D7'
-    - '#5C5D5C'
-    - '#B49A77'
-  rhythmicContrast: 0.5376344
-typography_spectrum: 0.58409
+    - '#0E0C0D'
+    - '#E2E0CF'
+    - '#5B4C3A'
+    - '#AB9C87'
+    - '#F8C804'
+  rhythmicContrast: 0.7724015
+typography_spectrum: 0.3691756
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.4928315
-favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 name: MyNicholsWorth
