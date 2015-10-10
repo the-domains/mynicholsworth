@@ -1,6 +1,7 @@
 name: MyNicholsWorth
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.45646
+typography_spectrum: 0.18769
 cta:
   domain: null
   bucket: null
@@ -14,10 +15,15 @@ opengraph:
   type: null
   appId: null
 color:
-  brandColors: []
-  brandStrength: 0
+  brandColors:
+    - '#020204'
+    - '#fef9f5'
+    - '#b3a88c'
+    - '#464644'
+    - '#887c62'
+  brandStrength: 0.75
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.4375
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
