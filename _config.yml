@@ -1,7 +1,7 @@
 name: MyNicholsWorth
 favicon: null
-layout_spectrum: 0.3727598
-typography_spectrum: 0.421147
+layout_spectrum: 0.57808
+typography_spectrum: 0.43316
 collections:
   - index:
       path: /
@@ -28,15 +28,15 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#1e1e1e'
-    - '#7c895d'
-    - '#d65481'
-    - '#a2c9e0'
-  brandStrength: 0.2777778
-  lightness: 0.3655914
-  saturation: 0.874552
-  rhythmicContrast: 0.6577061
+    - '#111111'
+    - '#643f31'
+    - '#ab7259'
+    - '#dca48c'
+    - '#347ba2'
+  brandStrength: 0.375
+  lightness: 0.6875
+  saturation: 0.75
+  rhythmicContrast: 1
 purpose:
   - name: awareness
     url: null
