@@ -1,22 +1,26 @@
 ---
-description: www.frontpagemag.com/fpm/260646/obama-beats-isis-word-games-daniel-greenfield
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'urn:uuid:4f85091f-1aee-4f77-a415-5fa3a6a38773'
+inLanguage: null
+starred: false
+keywords: []
+description: ''
+datePublished: '2015-11-02T16:08:28.161Z'
+dateModified: '2015-11-02T16:08:22.169Z'
 author: []
-datePublished: '2015-11-02T16:02:30.738Z'
-publisher:
-  domain: ''
-  name: ''
-title: Frontpage
-dateModified: '2015-11-02T08:29:29.425Z'
+title: www.frontpagemag.com/fpm/260646/obama-beats-isis-word-games-daniel-greenfield
 sourcePath: _posts/2015-11-02-wwwfrontpagemagcomfpm260646obama-beats-isis-word-games-.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: wwwfrontpagemagcomfpm260646obama-beats-isis-word-games-/index.html
+authors: []
+publisher:
+  name: ''
+  domain: ''
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
 ---
-# Frontpage
-
-www.frontpagemag.com/fpm/260646/obama-beats-isis-word-games-daniel-greenfield
+# www.frontpagemag.com/fpm/260646/obama-beats-isis-word-games-daniel-greenfield
