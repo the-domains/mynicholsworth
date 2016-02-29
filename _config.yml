@@ -13,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 purpose:
   - name: awareness
     url: null
@@ -33,7 +33,7 @@ color:
     - '#FFAC5C'
     - '#4B2617'
   lightness: 0.4426523
-typography_spectrum: 0.8512545
+typography_spectrum: 0.6792115
 layout_spectrum: 1
 analytics:
   twitter: null
