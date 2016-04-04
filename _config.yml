@@ -1,6 +1,6 @@
 name: MyNicholsWorth
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.90467
 collections:
   - index:
@@ -33,10 +33,10 @@ color:
     - '#546392'
     - '#5B4C39'
     - '#90927F'
-  brandStrength: 0.3125
+  brandStrength: 0.25
   lightness: 0.3125
   saturation: 0.625
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose:
   - name: awareness
     url: null
