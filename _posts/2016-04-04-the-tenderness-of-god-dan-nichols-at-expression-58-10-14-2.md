@@ -50,10 +50,10 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://soundcloud.com/dan-nichols-15/the-tenderness-of-god-dan-nichols-at-expression-58-10-14-2014'
 title: 'The Tenderness of God. Dan Nichols at Expression 58, 10-14-2014 by Dan Nichols'
-datePublished: '2016-04-04T04:26:43.253Z'
-dateModified: '2016-04-04T04:21:55.083Z'
+datePublished: '2016-05-11T22:13:54.179Z'
+dateModified: '2016-05-11T22:13:53.869Z'
 sourcePath: _posts/2016-04-04-the-tenderness-of-god-dan-nichols-at-expression-58-10-14-2.md
-published: true
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
